@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <item
+            android:id="@+id/connect1"
+            android:showAsAction="ifRoom|collapseActionView"
+            android:title="@string/CONNECT"/>
+	<item 
+	    android:id = "@+id/disconnect1"
+	    android:title="@string/DISCONNECT"
+	    android:showAsAction="ifRoom|withText"/>
+</menu>
